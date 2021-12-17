@@ -1,3 +1,37 @@
 body {
-background-color: grey;
+font-family: sans-serif;
+background-color: lightgrey;
+}
+
+.red-markup {
+background-color: white;
+color: red;
+}
+
+.blue-markup {
+color: blue;
+}
+
+.white-horizontal-rule {
+border: white 2px solid;
+}
+
+.dark-horizontal-rule {
+border: black 1px solid;
+}
+
+.article-title {
+font-size: 22px;
+font-weight: 600;
+}
+
+.article-date {
+background: darkgray;
+}
+
+header { 
+background-color: black;
+color: white;
+margin: 3px black solid;
+border-color: black;
 }
